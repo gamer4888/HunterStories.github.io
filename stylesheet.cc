@@ -1,0 +1,73 @@
+body {
+  font-family: "Comic Sans MS", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 0.0em;
+  background-color: #665b5b
+}
+
+h1 {
+  font-family: Comic Sans MS; /* Sweet, Sweet Revenge for doing nothing :D  (Just delete this line if you don't like the font, or change it.) */
+  font-style: impact;
+  color: #5271ff;
+}
+
+p {
+  color: white
+}
+
+a {
+  color: #5271ff;;
+  font-style: blue;
+}
+
+/*Navbar*/
+
+.navbar {
+	background: #5271ff; /* Bar Background Color */
+	color: white; /* Font Color */
+	font-size: 20px;
+	width: 100%;
+	height: 60px;    
+	/* box-shadow: 0 -1px 20px 0 black; */
+	position:sticky;
+	top:0;
+	}
+
+#icon {
+	padding: 3px;
+	float: left;
+	}
+
+.buttons {
+	color: white;
+	background-color: #5271ff;
+	font-size: 19px;
+	transition-duration: 0.4s;
+	padding: 16px;
+	text-align: center;
+	float: right;
+	text-decoration: none;
+	}
+
+.buttons:hover {
+	background-color: #4763DF; /* Change button color when hoverd over */
+	}
+
+#title {
+	float: left;
+	color: white;
+	margin-top: 0px;
+	padding-top: 10px;
+	padding-left: 20px;
+	}
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
